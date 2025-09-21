@@ -50,7 +50,7 @@ for (let value of values) {
   console.log(value);
 }
 
-// 2-3. for in (객체만을 위한 특수한 반복문)
+// 2-3. for in (객체 순회만을 위한 특수한 반복문)
 for (let key in person) {
   const value = person[key];
   console.log(key, value);
