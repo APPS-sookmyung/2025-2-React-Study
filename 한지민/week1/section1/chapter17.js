@@ -21,3 +21,5 @@ let item2 = arrC[1];
 
 arrC[0] = "hello";
 console.log(arrC);
+
+//
